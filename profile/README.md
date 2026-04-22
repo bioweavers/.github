@@ -10,6 +10,18 @@ Rincon's Bio Weaver Tool
 
 <h2 align="center">
 
+## Table of Contents
+
+[Project Description](#project-description)
+
+[Authors and Contributors](#authors-and-contributors)
+
+[Usage](#usage)
+
+[Client](#client)
+
+[Acknowledgements](#acknowledgements)
+
 ## Project Description
 
 Rincon Consultants, Inc. is a leading environmental consulting firm across California, where biologists conduct reviews under the California Environmental Quality Act (CEQA) to evaluate how proposed projects may impact special-status species and determine their potential to occur within project areas. Currently, Rincon’s biologists rely on a fragmented workflow involving manual inputs, search queries, and data joins to compile species occurrence data from sources like the California Natural Diversity Database (CNDDB) and the California Native Plant Society's Rare Plant Inventory. This process introduces inefficiencies, data inconsistencies, and reproducibility issues that can obscure important ecological relationships. Our project will address this data management challenge by designing an automated system that consolidates various datasets into a dynamic platform, where users can interact with cleaned, standardized datasets in real-time. We will provide Rincon with a more streamlined process for data management and analysis, which in turn will strengthen long-term resource conservation and ecological resilience across California.
@@ -21,13 +33,18 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 - Jaslyn Miura
 
-- Melannie Moreno Rolón
+- Melannie Moreno Rolón {[Github](https://github.com/mmorenorolon) | [Website](https://mmorenorolon.github.io/) | [LinkedIn](https://www.linkedin.com/in/melanniemoreno/)}
 
 - Ava Robillard
 
 ## Client 
 
-Rincon Consultants, Inc.
+[Rincon Consultants, Inc.](https://www.rinconconsultants.com)
+
+VENTURA – HEADQUARTERS
+2060 Knoll Drive
+Ventura, CA 93003
+Phone: 805-644-4455
 
 <!--
 
