@@ -42,8 +42,11 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 [Rincon Consultants, Inc.](https://www.rinconconsultants.com)
 
 VENTURA – HEADQUARTERS
+
 2060 Knoll Drive
+
 Ventura, CA 93003
+
 Phone: 805-644-4455
 
 <!--
