@@ -24,7 +24,7 @@ Rincon's Bio Weaver Tool
 
 ## Project Description
 
-Rincon Consultants, Inc. is a leading environmental consulting firm across California, where biologists conduct reviews under the California Environmental Quality Act (CEQA) to evaluate how proposed projects may impact special-status species and determine their potential to occur within project areas. Currently, Rincon’s biologists rely on a fragmented workflow involving manual inputs, search queries, and data joins to compile species occurrence data from sources like the California Natural Diversity Database (CNDDB) and the California Native Plant Society's Rare Plant Inventory. This process introduces inefficiencies, data inconsistencies, and reproducibility issues that can obscure important ecological relationships. Our project will address this data management challenge by designing an automated system that consolidates various datasets into a dynamic platform, where users can interact with cleaned, standardized datasets in real-time. We will provide Rincon with a more streamlined process for data management and analysis, which in turn will strengthen long-term resource conservation and ecological resilience across California.
+Rincon Consultants, Inc. is a leading environmental consulting firm across California, where biologists conduct reviews under the California Environmental Quality Act (CEQA) to evaluate how proposed projects may impact special-status species and determine their potential to occur within project areas. Currently, Rincon’s biologists rely on a fragmented workflow involving manual inputs, search queries, and data joins to compile species occurrence data from sources like the California Natural Diversity Database (CNDDB) and the California Native Plant Society's Rare Plant Inventory. This process introduces inefficiencies, data inconsistencies, and reproducibility issues that can obscure important ecological relationships. The Bio Weaver tool addresses this data management challenge through an automated data processing workflow that is integrated with a dynamic platform, where biologists can interact with project-specific data in the form of maps, charts, and tables that can then be exported for their regulatory reporting needs. This provides Rincon with a streamlined process for data management and analysis, which will allow biologists to spend less time wrangling data and more time in the field, in turn strengthening long-term resource conservation and ecological resilience across California.
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara. The project can be found on the Bren website [here](https://bren.ucsb.edu/projects/rincons-bio-weaver-tool-disparate-data-actionable-analysis).
 
@@ -35,7 +35,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 - Melannie Moreno Rolón {[Github](https://github.com/mmorenorolon) | [Website](https://mmorenorolon.github.io/) | [LinkedIn](https://www.linkedin.com/in/melanniemoreno/)}
 
-- Ava Robillard
+- Ava Robillard {[Github](https://github.com/avarobillard) | [Website](https://avarobillard.github.io/) | [LinkedIn](https://www.linkedin.com/in/avarobillard/)}
 
 ## Client 
 
