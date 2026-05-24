@@ -31,7 +31,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 ## Authors and Contributors
 
-- Jaslyn Miura
+- Jaslyn Miura {[Github](https://github.com/jaslynmiura) | [Website](https://jaslynmiura.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaslyn-miura/)}
 
 - Melannie Moreno Rolón {[Github](https://github.com/mmorenorolon) | [Website](https://mmorenorolon.github.io/) | [LinkedIn](https://www.linkedin.com/in/melanniemoreno/)}
 
