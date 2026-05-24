@@ -43,6 +43,8 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 - Ava Robillard {[Github](https://github.com/avarobillard) | [Website](https://avarobillard.github.io/) | [LinkedIn](https://www.linkedin.com/in/avarobillard/)}
 
+- Kelly Caylor (faculty advisor) {[GitHub](https://github.com/kcaylor)}
+
 ## Client 
 
 [Rincon Consultants, Inc.](https://www.rinconconsultants.com)
