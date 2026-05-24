@@ -14,9 +14,9 @@ Rincon's Bio Weaver Tool
 
 [Project Description](#project-description)
 
-[Authors and Contributors](#authors-and-contributors)
+[Repositories](#repositories)
 
-[Usage](#usage)
+[Authors and Contributors](#authors-and-contributors)
 
 [Client](#client)
 
@@ -28,6 +28,12 @@ Rincon Consultants, Inc. is a leading environmental consulting firm across Calif
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara. The project can be found on the Bren website [here](https://bren.ucsb.edu/projects/rincons-bio-weaver-tool-disparate-data-actionable-analysis).
 
+## Repositories
+
+| Repositories    | Contents |
+| ----------- | ----------- |
+| [bioweavers-mvp](https://github.com/bioweavers/bioweavers-mvp)| Code development repository |
+| [bioweaver-tool](https://github.com/bioweavers/bioweaver-tool) | Final deployment repository |
 
 ## Authors and Contributors
 
